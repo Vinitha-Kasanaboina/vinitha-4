@@ -32,3 +32,26 @@ To become a skilled software engineer by developing practical projects, strength
 I'm interested in learning, collaborating on projects, and exploring opportunities to grow as a software developer.
 
 Thanks for visiting my profile! 😊
+---
+
+## 💻 Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,js,git,github,vscode" alt="Skills" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinitha-4&show_icons=true&theme=tokyonight" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitha-4&layout=compact&theme=tokyonight" height="165" alt="Most used languages" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+- GitHub: [@vinitha-4](https://github.com/vinitha-4)
+
